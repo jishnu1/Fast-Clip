@@ -1,2 +1,2 @@
 chcp 65001
-clip < "file.txt"
+clip < "file1.txt"
