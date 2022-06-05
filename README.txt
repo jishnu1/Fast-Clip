@@ -1,2 +1,1 @@
-If you have a keyboard that uses the Microsoft Mouse and Keyboard Center software,
-bind the buttons to the batch files.
+If you have a keyboard or mouse with customizable buttons, bind the buttons to the batch files.
