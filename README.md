@@ -5,8 +5,9 @@
 
 # Tips
 
-* If you have a keyboard or mouse with customizable buttons, bind the buttons to the batch files for easy access to frequently used text.
-* For job applications, I recommend creating batch files for the following:
+* If you have a keyboard or mouse with customizable buttons, bind the buttons to the batch files for easy access to frequently used text
+* For job applications, I recommend creating batch files for the following <br>
+(templates provided in jobs folder)
   * email address
   * phone number
   * LinkedIn URL
